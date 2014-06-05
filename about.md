@@ -28,7 +28,8 @@ weight: 100
 [Instagram][i]
 
 ...
-[gh]: https://github.com/zhangcz
+
+[gh]: https://github.com/zhangcz828
 [d]: http://www.douban.com/people/90424688/
 [i]: http://instagram.com/zhangcz828
 [k]: http://www.duxin.info
