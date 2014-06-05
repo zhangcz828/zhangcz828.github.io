@@ -28,4 +28,4 @@ git commit
 git push
 {% endhighlight %}
 
-OK!Now I have my own blog!
+OK! Now I have my own blog!
