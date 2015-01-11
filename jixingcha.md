@@ -16,5 +16,5 @@ weight: 500
 
 ...
 
-[g1]: blog.zhangcz.info/ToMyLove
-[g2]: blog.zhangcz.info/love
+[g1]: ToMyLove
+[g2]: love
